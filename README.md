@@ -21,6 +21,6 @@ You can find more about my professional experience in my CV: [View My CV](https:
 
 Feel free to to connect me:
 
-- Email: [bartoszdorobek19@gmail.com](mailto:bartoszdorobek19@gmail.com)
+- Email: [bartoszdorobek19@gmail.com](mailto:bartoszdorobek19+github_readme@gmail.com)
 - LinkedIn: [www.linkedin.com/in/bartoszdorobek](linkedin.com/in/bartoszdorobek/) 
 
