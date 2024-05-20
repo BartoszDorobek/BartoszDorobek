@@ -18,7 +18,6 @@
 </p>
 
 <!--You can find more about my professional experience in my CV: [View My CV](https://flowcv.com/resume/t4fbqurn3i) -->
-- My CV: [https://flowcv.com/resume/jo26w0sq4j](https://flowcv.com/resume/jo26w0sq4j)
   
 Feel free to connect me:
 
