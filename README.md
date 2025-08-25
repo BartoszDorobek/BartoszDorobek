@@ -2,11 +2,11 @@
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" title="Python" alt="Python"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=pytorch" height="50" title="Pytorch" alt="Pytorch"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50" title="Scikit-Learn" alt="Scikit-Learn"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="50" title="TensorFlow" alt="TensorFlow"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="50" title="Keras" alt="Keras"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" title="Matplotlib" alt="Matplotlib"/>&nbsp;
-    <img src="https://skillicons.dev/icons?i=pytorch" height="50" title="Pytorch" alt="Pytorch"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" height="50" title="Hadoop" alt="Hadoop"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" title="Git" alt="Git"/>&nbsp;
