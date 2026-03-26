@@ -24,5 +24,5 @@
 Feel free to connect me:
 
 - Email: [bartoszdorobek19@gmail.com](mailto:bartoszdorobek19+github_readme@gmail.com)
-- LinkedIn: [www.linkedin.com/in/bartoszdorobek](linkedin.com/in/bartoszdorobek/) 
+- LinkedIn: [www.linkedin.com/in/bartoszdorobek](https://www.linkedin.com/in/bartoszdorobek/) 
 
