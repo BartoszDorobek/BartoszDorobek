@@ -14,9 +14,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" title="Docker" alt="Docker"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" title="Kubernetes" alt="Kubernetes"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="50" title="Terraform" alt="Terraform"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" title="Azure" alt="Azure"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" title="Azure" alt="Azure"/>&nbsp
+    <!--<img src="https://skillicons.dev/icons?i=aws" height="50" title="AWS"/>&nbsp-->
 </p>
 
+<!-- PREPARED with https://skillicons.dev/  https://github.com/tandpfun/skill-icons#readme -->
 <!--You can find more about my professional experience in my CV: [View My CV](https://flowcv.com/resume/t4fbqurn3i) -->
   
 Feel free to connect me:
